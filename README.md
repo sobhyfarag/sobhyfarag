@@ -1,5 +1,11 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhyfarag&theme=radical)
+![GitHub Stats]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhyfarag&theme=radical" />
+  &nbsp;&nbsp;&nbsp; <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag&layout=compact" style="background-color: transparent;/>
+</p>
+
+
 <!--
 **sobhyfarag/sobhyfarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
