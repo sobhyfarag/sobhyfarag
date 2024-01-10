@@ -34,9 +34,18 @@
 ### :hammer_and_wrench: Languages and Tools 
 
   <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/PBI.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/Excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/Python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/SQL.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/tableau.png" title="Tableau" alt="tableau" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sobhyfarag/sobhyfarag/blob/main/Lgos/R.png" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+
+  
+
 </div>
