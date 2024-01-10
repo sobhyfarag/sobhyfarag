@@ -1,8 +1,7 @@
 ### Hi there 👋
-![GitHub Stats]()
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sobhyfarag&theme=radical" />
-  &nbsp;&nbsp;&nbsp; <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag&layout=compact" style="background-color: transparent;/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhyfarag&title_color=9500ff&text_color=7300ff&bg_color=ffffff00&hide_border=TRUE" height="200px" width="400px" />
+  &nbsp;&nbsp;&nbsp; <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag&bg_color=ffffff00&layout=compact&title_color=310969" height="200px" width="400px" />
 </p>
 
 
@@ -43,11 +42,8 @@ Header -->
 --- 
 ### :woman_technologist: About Me :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sobhyfarag&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
 <div id="header" align="center">
-  
+ 
 </div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag)](https://github.com/sobhyfarag/github-readme-stats)
@@ -57,7 +53,6 @@ Header -->
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag&layout=compact&langs_count=8&hide_border=true&)
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
