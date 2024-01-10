@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sobhyfarag&title_color=ffb300&text_color=fffcf5&bg_color=ffffff00&hide_border=TRUE" height="200px" width="400px" />
   &nbsp;&nbsp;&nbsp; <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhyfarag&bg_color=ffffff00&layout=compact&title_color=ffb300&hide_border=TRUE" height="200px" width="400px" />
